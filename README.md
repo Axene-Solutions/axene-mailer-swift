@@ -1,5 +1,10 @@
 # Axene Mailer Swift SDK
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-1F8A5B?style=flat-square&labelColor=101010)](LICENSE)
+[![Swift Package](https://img.shields.io/badge/SwiftPM-compatible-F05138?style=flat-square&labelColor=101010&logo=swift&logoColor=white)](https://swift.org/package-manager)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FFD100?style=flat-square&labelColor=101010)](#contributing)
+[![Built in Kenya](https://img.shields.io/badge/Built%20in-Nairobi%2C%20Kenya-101010?style=flat-square&labelColor=101010)](https://axene.io)
+
 The official Swift SDK for [Axene Mailer](https://mail.axene.io), the email
 platform built for Africa: KES pricing, M-Pesa billing, and deliverability tuned
 for African ISPs.
