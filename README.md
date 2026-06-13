@@ -174,6 +174,9 @@ do {
 - The niche domain endpoints (ns-provider, BIMI, domain-connect) are not yet
   covered.
 
-## License
+## Contributing
+
+Contributions are welcome. Open an issue to discuss larger changes, then send a
+pull request. Run the test suite and formatter before submitting.## License
 
 MIT.
